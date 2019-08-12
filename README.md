@@ -1,1 +1,1 @@
-# paggy-core
+# Shared Classes of paggy.
